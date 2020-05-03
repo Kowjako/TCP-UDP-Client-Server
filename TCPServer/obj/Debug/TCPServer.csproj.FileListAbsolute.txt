@@ -1,0 +1,5 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
