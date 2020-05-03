@@ -1,0 +1,5 @@
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPClient\bin\Debug\TCPClient.exe.config
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPClient\bin\Debug\TCPClient.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPClient\obj\Debug\TCPClient.exe
+c:\users\laptopmsi\documents\visual studio 2015\Projects\TCPServer\TCPClient\obj\Debug\TCPClient.pdb
